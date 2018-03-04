@@ -2,7 +2,7 @@
 
 Hi, my name is Olivier Verville, and this repository is used as my online resume. As far back as I can remember, I've always had interest for computers; as soon as I was introduced to them, I loved it, and it's been a big part of my life since then. My interest for programming came a few years later as I was exploring this vast and amazing world that would forever change my vision of the world around me.
 
-Even though programming is my area of expertise, I love pretty much everything IT-related. Whenever I find the occasion to, I'll mess around and undertake minor projects in areas such as networking, hardware, IoT, etc. If I get to do a little of programming while I'm at it, well I call it the best of both worlds.
+Even though programming is my area of expertise, I love pretty much everything IT-related. Whenever I find the occasion to, I'll mess around and undertake minor projects in areas such as networking, hardware, IoT, GFX editing, etc. If I get to do a little of programming while I'm at it, well I call it the best of both worlds.
 
 - [LinkedIn](https://www.linkedin.com/in/olivier-verville/)
 - [Stack Overflow](https://stackoverflow.com/users/8332700/verv)
