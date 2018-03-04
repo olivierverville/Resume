@@ -10,7 +10,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 - [Stack Overflow](https://stackoverflow.com/users/8332700/verv)
 - [GitHub](https://github.com/olivierverville)
 
-Completed Projects
+Completed Projects (Professional)
 ---
 
 **October 2017 — March 2018**
