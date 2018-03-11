@@ -57,7 +57,7 @@ In parallel I was also responsible for setting up the architecture behind our in
 **Employer**: Askida  
 **For:** Security Company
 
-**Project:** Design and development of a BDD-oriented automated test architecture for an internal application. The test architecture was built on top of the Python framework Behave (Cucumber clone). I also was responsible for the writing and scripting of basic test scenarios. The framework was targeted for API tests on a SOAP API.
+**Project:** Design and development of a BDD-oriented automated test architecture for an internal application. The test architecture was built on top of the Python framework Behave (Cucumber clone). I also was responsible for the writing and scripting of basic test scenarios. The solution was targeted for API tests on a SOAP API.
 
 **Tags**: `Python 2` , `BDD` , `Behave` ,  `SOAP API`
 
