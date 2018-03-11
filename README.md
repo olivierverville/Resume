@@ -13,6 +13,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Completed Projects (Professional)
 ---
 
+**March 2018**
+
+**Title:** Automation Engineer  
+**Employer**: Askida  
+**For:** Health IT Company
+
+**Project:** Scripting of API tests over a FHIR API through a reverse proxy, and validation of recorded data by the reverse proxy through requests to a local REST API. Solution was entirely scripted using Robot Framework & Python.
+
+**Tags**: `Python 2` , `Robot Framework` , `FHIR` , `REST API` , `XML`
+
+---
+
 **October 2017 — March 2018**
 
 **Title:** Developer & Automation Engineer  
