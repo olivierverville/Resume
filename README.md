@@ -35,7 +35,7 @@ Completed Projects (Professional)
 
 In parallel I was also responsible for setting up the architecture behind our internal automated tests (API tests) and setting up the whole thing on Jenkins (build app, launch webservice, start tests, etc.). The actual test cases and scripts weren't written by me.
 
-**Tags**: `Python 3` , `Selenium` , `ChromeDriver` , `WebService` , `REST API` , `VBA`, `MS Access`, `Jenkins`
+**Tags**: `Python 3` , `Selenium` , `ChromeDriver` , `WebService` , `REST API` , `VBA` , `MS Access` , `Jenkins`
 
 ---
 
@@ -47,7 +47,7 @@ In parallel I was also responsible for setting up the architecture behind our in
 
 **Project:** Automation of a complex build procedure on a PowerBuilder application. The procedure was previously done manually on a weekly basis and was time consuming (~3 hours, given the procedure was executed by someone used to it)
 
-**Tags**: `CI/CD` , `PowerBuilder` , `PowerGen` , `TeamCity`, `Python 3`
+**Tags**: `CI/CD` , `PowerBuilder` , `PowerGen` , `TeamCity` , `Python 3`
 
 ---
 
