@@ -16,7 +16,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 **Programming Languages I'd like to work with**  
 `C#` , `Ruby` , `Kotlin` , `TypeScript` , `GO`
 
-Completed Projects (Professional)
+Projects (Professional)
 ---
 
 **April 2018 - August 2018**
@@ -92,3 +92,16 @@ In parallel I was also responsible for setting up the architecture behind our in
 **Project**: Conversion of an internal banking app (written in MicroFocus COBOL, in 1983), to a Java web application. The backend was written in Java and used an Oracle database, and the frontend was entirely written in TypeScript. I worked the first 6 months on the project as a QA analyst, building up the test architecture, the setup on Jenkins, and developing an internal testing library for Robot Framework, which was the framework used for the scripting of the test cases (keyword driven approach). I spent the rest of the project as a developer, developing utility tools for the COBOL to Java conversion, creation of transaction stubs, and a few other things that saved hundreds of hours of work. Also participated to the actual development of the application.
 
 **Tags**: `Java` , `TypeScript` , `Robot Framework` , `Python 2` , `Jenkins` , `Oracle` , `SQL` , `COBOL`
+
+Projects (Personal)
+---
+
+**Median XL**
+
+**Started**: June 2013  
+**Finished**: Still evolving  
+**Title**: Lead Developer  
+
+**Project**: Reverse engineering and expansion of [Diablo II](http://us.blizzard.com/en-us/games/d2/)'s game engine. The game's engine was almost entirely rewritten by reversing and translating the binaries' assembly code back to source C code. The project consists of about 100,000 lines of source code that was translated from raw assembly code. Bugs from the original game's engine have been fixed, and it was ultimately expanded in a modding platform for my team.
+
+**Tags**: `C` , `C++` , `MSVC` , `x86 Assembly` , `Source Code Injection`
