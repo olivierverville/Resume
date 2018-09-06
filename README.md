@@ -15,10 +15,10 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 - [Personal Projects](#personal-projects)
 
 **Programming Languages I've worked with**  
-`C` , `C++` , `Java` , `Python` , `Javascript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
+`C` , `C++` , `Java` , `Python` , `Javascript` , `TypeScript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
 
 **Programming Languages I'd like to work with**  
-`C#` , `Ruby` , `Kotlin` , `TypeScript` , `GO`
+`C#` , `Ruby` , `Kotlin` , `GO`
 
 Professional Projects
 ---
