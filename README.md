@@ -109,3 +109,15 @@ Personal Projects
 **Project**: Reverse engineering and expansion of [Diablo II](http://us.blizzard.com/en-us/games/d2/)'s game engine. The game's engine was almost entirely rewritten by reversing and translating the binaries' assembly code back to source C code. The project consists of about 100,000 lines of source code that was translated from raw assembly code. Bugs from the original game's engine have been fixed, and it was ultimately expanded in a modding platform for my team.
 
 **Tags**: `C` , `C++` , `MSVC` , `x86 Assembly` , `Source Code Injection` , `Reverse Engineering` , `OllyDBG`
+
+---
+
+**PVPGN**
+
+**Started**: May 2017  
+**Finished**: Still evolving  
+**Title**: Developer  
+
+**Project**: Development on a private fork of [PVPGN](https://github.com/pvpgn/pvpgn-server), adding and/or expanding functionalities for the server that hosts the Median XL project. These patches weren't contributed to the main public project because they were very specific changes to integrate with Median XL and would be of no interest for general usage.
+
+**Tags**: `C++` , `gcc`
