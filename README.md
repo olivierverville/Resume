@@ -10,8 +10,9 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 - [Stack Overflow](https://stackoverflow.com/users/8332700/verv)
 - [GitHub](https://github.com/olivierverville)
 
-- [Professional Projects](#Professional-Projects)
-- [Personal Projects](#Personal-Projects)
+**Completed Projects**
+- [Professional Projects](#professional-projects)
+- [Personal Projects](#personal-projects)
 
 **Programming Languages I've worked with**  
 `C` , `C++` , `Java` , `Python` , `Javascript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
