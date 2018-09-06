@@ -10,13 +10,16 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 - [Stack Overflow](https://stackoverflow.com/users/8332700/verv)
 - [GitHub](https://github.com/olivierverville)
 
+- [Professional Projects](#Professional-Projects)
+- [Personal Projects](#Personal-Projects)
+
 **Programming Languages I've worked with**  
 `C` , `C++` , `Java` , `Python` , `Javascript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
 
 **Programming Languages I'd like to work with**  
 `C#` , `Ruby` , `Kotlin` , `TypeScript` , `GO`
 
-Projects (Professional)
+Professional Projects
 ---
 
 **April 2018 - August 2018**
@@ -93,7 +96,7 @@ In parallel I was also responsible for setting up the architecture behind our in
 
 **Tags**: `Java` , `TypeScript` , `Robot Framework` , `Python 2` , `Jenkins` , `Oracle` , `SQL` , `COBOL`
 
-Projects (Personal)
+Personal Projects
 ---
 
 **Median XL**
