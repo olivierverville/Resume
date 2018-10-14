@@ -21,6 +21,8 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 **Programming Languages I'd like to work with**  
 `C#` , `Ruby` , `Kotlin` , `GO`
 
+---
+
 Professional Projects
 ---
 
@@ -98,6 +100,8 @@ In parallel I was also responsible for setting up the architecture behind our in
 
 **Tags**: `Java` , `TypeScript` , `Robot Framework` , `Python 2` , `Jenkins` , `Oracle` , `SQL` , `COBOL`
 
+---
+
 Personal Projects
 ---
 
@@ -122,6 +126,8 @@ Personal Projects
 **Project**: Development on a private fork of [PVPGN](https://github.com/pvpgn/pvpgn-server), adding and/or expanding functionalities for the server that hosts the Median XL project. These patches weren't contributed to the main public project because they were very specific changes to integrate with Median XL and would be of no interest for general usage.
 
 **Tags**: `C++` , `gcc`
+
+---
 
 Contributions to Open Source Projects
 ---
