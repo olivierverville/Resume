@@ -13,6 +13,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 **Completed Projects**
 - [Professional Projects](#professional-projects)
 - [Personal Projects](#personal-projects)
+- [Contributions to Open Source Projects](#ontributions-to-open-source-projects)
 
 **Programming Languages I've worked with**  
 `C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
@@ -121,3 +122,12 @@ Personal Projects
 **Project**: Development on a private fork of [PVPGN](https://github.com/pvpgn/pvpgn-server), adding and/or expanding functionalities for the server that hosts the Median XL project. These patches weren't contributed to the main public project because they were very specific changes to integrate with Median XL and would be of no interest for general usage.
 
 **Tags**: `C++` , `gcc`
+
+Contributions to Open Source Projects
+---
+
+**Robot Framework**
+
+Contributions to [Selenium2Library](https://github.com/robotframework/Selenium2Library), which became [SeleniumLibrary](https://github.com/robotframework/SeleniumLibrary) and development of utility libraries and tools for the framework.
+
+**Tags**: `Python` , `Robot Framework`
