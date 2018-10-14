@@ -13,7 +13,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 **Completed Projects**
 - [Professional Projects](#professional-projects)
 - [Personal Projects](#personal-projects)
-- [Contributions to Open Source Projects](#ontributions-to-open-source-projects)
+- [Contributions to Open Source Projects](#contributions-to-open-source-projects)
 
 **Programming Languages I've worked with**  
 `C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
