@@ -26,6 +26,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Professional Projects
 ---
 
+**September 2018**
+
+**Title**: Developer  
+**Employer**: Askida  
+**For**: Askida
+
+**Project**: Development of a small internal application based off [Spring's PetClinic](https://github.com/spring-projects/spring-petclinic) to be used as a sample test application for the [Askida CT](https://askidact.com/en/) product. Project mostly consisted in expanding PetClinic's functionalities so that a more vast array of automated tests could be scripted and executed against it. 
+
+**Tags**: `Java` , `Spring` , `Thymeleaf` , `MVC` , `Paypal API`
+
+---
+
 **April 2018 - August 2018**
 
 **Title**: Developer  
