@@ -21,6 +21,9 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 **Programming Languages I'd like to work with**  
 `C#` , `Ruby` , `Kotlin` , `GO`
 
+**CI/CD Software I've worked with**
+`Gitlab CI` , `Jetbrains TeamCity` , `Jenkins`
+
 ---
 
 Professional Projects
