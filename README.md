@@ -29,6 +29,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Professional Projects
 ---
 
+**September 2018 - February 2019**
+
+**Title**: Developer  
+**Employer**: Askida  
+**For**: Telecommunication Company
+
+**Project**: Development of a set of REST API that provides diagnosis and troubleshooting data for an IoT platform, using a micro service oriented architecture. Each API consisted of a set of Docker containers deployed as pods in a Kubernetes cluster.
+
+**Tags**: `Java` , `Spring` , `Google Guice` , `Undertow` , `Micro Service` , `REST API` , `Kubernetes` , `PaaS`
+
+---
+
 **September 2018**
 
 **Title**: Developer  
