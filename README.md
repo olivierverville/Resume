@@ -16,7 +16,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 - [Contributions to Open Source Projects](#contributions-to-open-source-projects)
 
 **Programming Languages I've worked with**  
-`C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `SQL` , `x86 Assembly` , `Groovy` , `VBA`
+`C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `x86 Assembly` , `Groovy` , `VBA`
 
 **Programming Languages I'd like to work with**  
 `C#` , `Ruby` , `Kotlin` , `GO`
