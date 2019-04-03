@@ -29,6 +29,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Professional Projects
 ---
 
+**February 2019 - March 2019**
+
+**Title**: Developer  
+**Employer**: Askida  
+**For**: Telecommunication Company
+
+**Project**: Maintenance and scaling of a java application with an electron-based frontend. The application collects data from various public API's and generates a report from this data. The frontend is used to enrich and in some cases rectify the generated report.
+
+**Tags**: `Java` , `Spring` , `Javascript` , `Electron` , `REST API` , `FreeMarker`
+
+---
+
 **September 2018 - February 2019**
 
 **Title**: Developer  
