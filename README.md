@@ -37,7 +37,7 @@ Professional Projects
 
 **Project**: Maintenance and scaling of a java application with an electron-based frontend. The application collects data from various public API's and generates a report from this data. The frontend is used to enrich and in some cases rectify the generated report.
 
-**Tags**: `Java` , `Spring` , `Javascript` , `Electron` , `REST API` , `FreeMarker`
+**Tags**: `Java` , `Spring` , `Javascript` , `Electron` , `REST API` , `FreeMarker` , `SQLite`
 
 ---
 
