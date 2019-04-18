@@ -29,6 +29,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Professional Projects
 ---
 
+**April 2019**
+
+**Title**: Developer  
+**Employer**: Askida  
+**For**: Telecommunication Company
+
+**Project**: Development of a UI for an existing backend service. Another micro service was developed in Python to be the interpret between the UI and the target service.
+
+**Tags**: `Python` , `Flask` , `Javascript` , `Vue.js`
+
+---
+
 **February 2019 - March 2019**
 
 **Title**: Developer  
