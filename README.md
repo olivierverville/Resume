@@ -19,7 +19,7 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 `C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `x86 Assembly` , `Groovy` , `VBA`
 
 **Programming Languages I'd like to work with**  
-`C#` , `Ruby` , `Kotlin` , `GO`
+`Rust` , `C#` , `Ruby` , `Kotlin` , `GO`
 
 **CI/CD Software I've worked with**  
 `Gitlab CI` , `Jetbrains TeamCity` , `Jenkins`
