@@ -35,9 +35,9 @@ Professional Projects
 **Employer**: Askida  
 **For**: Telecommunication Company
 
-**Project**: Maintenance and improvement of a microservice REST API, developed in Python with Flask. Refactoring of the code to make it easier to maintain and update, addition of several unit tests as the application didn't have any originally, refactoring of the ci/cd pipeline to include an extensive test stage.
+**Project**: Maintenance and improvement of a microservice REST API, developed in Python with Flask. Refactoring of the code to make it easier to maintain and update, addition of several unit tests as the application didn't have any originally, refactoring of the ci/cd pipeline to include an extensive test stage. The application was deployed in OpenShift.
 
-**Tags**: `Python` , `Flask` , `tox`, `pytest`, `SSO`, `F5 Networks`
+**Tags**: `Python` , `Flask` , `tox`, `pytest`, `SSO`, `F5 Networks`, `OpenShift`
 
 ---
 
@@ -47,9 +47,9 @@ Professional Projects
 **Employer**: Askida  
 **For**: Telecommunication Company
 
-**Project**: Development of a UI for an existing backend service. Another micro service was developed in Python to be the interpret between the UI and the target service.
+**Project**: Development of a UI for an existing backend service. Another micro service was developed in Python to be the interpret between the UI and the target service. The application was deployed in OpenShift.
 
-**Tags**: `Python` , `Flask` , `Javascript` , `Vue.js`
+**Tags**: `Python` , `Flask` , `Javascript` , `Vue.js`, `OpenShift`
 
 ---
 
