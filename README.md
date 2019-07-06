@@ -197,6 +197,7 @@ Contributions to Open Source Projects
 
 **Robot Framework**
 
+**Project**: https://github.com/robotframework  
 Contributions to [Selenium2Library](https://github.com/robotframework/Selenium2Library), which became [SeleniumLibrary](https://github.com/robotframework/SeleniumLibrary) and development of utility libraries and tools for the framework.
 
 **Tags**: `Python` , `Robot Framework`
