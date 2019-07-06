@@ -29,6 +29,18 @@ Nowadays I consider myself as a Full Stack Developer as I've had experience in s
 Professional Projects
 ---
 
+**April 2019 - July 2019**
+
+**Title**: Developer  
+**Employer**: Askida  
+**For**: Telecommunication Company
+
+**Project**: Maintenance and improvement of a microservice REST API, developed in Python with Flask. Refactoring of the code to make it easier to maintain and update, addition of several unit tests as the application didn't have any originally, refactoring of the ci/cd pipeline to include an extensive test stage.
+
+**Tags**: `Python` , `Flask` , `tox`, `pytest`, `SSO`, `F5 Networks`
+
+---
+
 **April 2019**
 
 **Title**: Developer  
