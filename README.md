@@ -27,27 +27,15 @@ Nowadays I consider myself a Full Stack Developer as I've had experience in so m
 Professional Projects
 ---
 
-**April 2019 - July 2019**
+**April 2019 - December 2019**
 
-**Title**: Developer  
+**Title**: Developer/Architect  
 **Employer**: Askida  
 **For**: Telecommunication Company
 
-**Project**: Maintenance and improvement of a microservice REST API, developed in Python with Flask. Refactoring of the code to make it easier to maintain and update, addition of several unit tests as the application didn't have any originally, refactoring of the ci/cd pipeline to include an extensive test stage. The application was deployed in OpenShift.
+**Project**: Architecturing, development and maintenance of microservice oriented applications to manage and interact with the network infrastructure of various external clients. Including but not limited to: one touch provisioning of network equipments, management of SSL certificates, management of virtual servers, etc. The microservices were deployed on a OpenShift cluster. The project also involved establishing a development practice in a less experienced development team, building CI/CD pipelines, and more.
 
-**Tags**: `Python` , `Flask` , `tox`, `pytest`, `SSO`, `F5 Networks`, `OpenShift`
-
----
-
-**April 2019**
-
-**Title**: Developer  
-**Employer**: Askida  
-**For**: Telecommunication Company
-
-**Project**: Development of a UI for an existing backend service. Another micro service was developed in Python to be the interpret between the UI and the target service. The application was deployed in OpenShift.
-
-**Tags**: `Python` , `Flask` , `Javascript` , `Vue.js`, `OpenShift`
+**Tags**: `Python` , `Flask` , `OpenShift`, `Network Infrastructure`
 
 ---
 
