@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is Olivier Verville, and this repository is used as my online resume. As far back as I can remember, I've always had interest for computers; as soon as I was introduced to them, I loved it, and it's been a big part of my life since then. My interest for programming came a few years later. Even though programming is my area of expertise, I love pretty much everything IT related. Whenever I find the occasion to, I'll mess around and undertake minor projects in areas such as networking, hardware, IoT, GFX editing, etc.
+Hi, my name is Olivier Verville, and this repository is used as my online resume. As far back as I can remember, I've always had interest for computers; as soon as I was introduced to them, I loved it, and it's been a big part of my life since then. My interest for programming came a few years later. Even though programming is my area of expertise, I love pretty much everything IT related. Whenever I find the occasion to, I'll mess around and undertake minor projects in areas such as networking, hardware, iot, gfx editing, etc.
 
 Nowadays I consider myself a Full Stack Developer as I've had experience in so many different IT contexts and areas, such as programming, networking, database management, test automation, reverse engineering, and the list goes on. My greatest expertises are: backend development and CI/CD engineering.
 
