@@ -6,7 +6,7 @@ Hi, my name is Olivier Verville, and this repository is used as my online resume
 
 Nowadays I consider myself a Full Stack Developer as I've had experience in so many different IT contexts and areas, such as programming, networking, database management, test automation, reverse engineering, and the list goes on. My greatest expertises are: backend development and CI/CD engineering.
 
-Some interests of mine that don't necessarily reflect in that resume are:
+Some interests of mine that don't necessarily reflect in this resume are:
 - Cryptocurrencies and blockchain technologies
 - Personal finances, investing, trading, etc.
 - Smart home automation
