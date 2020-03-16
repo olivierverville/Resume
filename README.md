@@ -38,7 +38,7 @@ Some interests of mine that don't necessarily reflect in this resume are:
 Professional Projects
 ---
 
-**April 2019 - December 2019**
+**April 2019 - March 2020**
 
 **Title**: Developer/Architect  
 **Employer**: Askida  
