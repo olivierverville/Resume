@@ -40,7 +40,7 @@ Professional Projects
 
 **January 2020 - September 2020**
 
-**Title**: Tech Lead 
+**Title**: Tech Lead  
 **Employer**: Askida  
 **For**: Telecommunication Company & their customer(s) compani(es)
 
@@ -52,7 +52,7 @@ Professional Projects
 
 **April 2019 - January 2020**
 
-**Title**: Developer 
+**Title**: Developer  
 **Employer**: Askida  
 **For**: Telecommunication Company & their customer(s) compani(es)
 
@@ -192,7 +192,7 @@ Personal Projects
 **PVPGN**
 
 **Started**: May 2017  
-**Finished**: in progress 
+**Finished**: in progress  
 **Title**: Developer  
 
 **Project**: Development on a private fork of [PVPGN](https://github.com/pvpgn/pvpgn-server), adding and/or expanding functionalities for the server that hosts the Median XL project. These patches weren't contributed to the main public project because they were very specific changes to integrate with Median XL and would be of no interest for general usage.
