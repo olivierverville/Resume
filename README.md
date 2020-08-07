@@ -56,7 +56,7 @@ Professional Projects
 **Employer**: Askida  
 **For**: Telecommunication Company & their customer(s) compani(es)
 
-**Project**: Maintenance and evolution of a set of python applications, for high level network management, with functionalities such as provisioning network devices (switches, servers, etc) through different interfaces (api, cli), generating configurations on network devices, etc. The apps were deployed in a Openshift cluster. My role on the project(s) mostly consisted in improving the development practice, implementing a tes practice (tests were practically non-existant before), and streamlining the CI/CD process.
+**Project**: Maintenance and evolution of a set of python applications, for high level network management, with functionalities such as provisioning network devices (switches, servers, etc) through different interfaces (api, cli), generating configurations on network devices, etc. The apps were deployed in a Openshift cluster. My role on the project(s) mostly consisted in improving the development practice, implementing a test practice (tests were practically non-existant before), and streamlining the CI/CD process.
 
 **Tags**: `Python` , `Flask` , `OpenShift`, `Network Infrastructure`
 
