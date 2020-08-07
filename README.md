@@ -38,13 +38,25 @@ Some interests of mine that don't necessarily reflect in this resume are:
 Professional Projects
 ---
 
-**April 2019 - April 2020**
+**January 2020 - September 2020**
 
-**Title**: Developer/Architect  
+**Title**: Tech Lead 
 **Employer**: Askida  
-**For**: Telecommunication Company
+**For**: Telecommunication Company & their customer(s) compani(es)
 
-**Project**: Architecturing, development and maintenance of microservice oriented applications to manage and interact with the network infrastructure of various external clients. Including but not limited to: one touch provisioning of network equipments, management of SSL certificates, management of virtual servers, etc. The microservices were deployed on a OpenShift cluster. The project also involved establishing a development practice in a less experienced development team, building CI/CD pipelines, and more.
+**Project**: Design, architecturing and development of an application to manage the lifecycle of ssl certificates (create, renew, revoke, etc) on network devices of various types, such as BigIP F5, Cisco CUCM, and many others, using different interfaces (api, cli, ssh). Micro service oriented architecture using Python and Flask, deployed in a Openshift cluster.
+
+**Tags**: `Python` , `Flask` , `OpenShift`, `OpenSSL`, `Micro Service`
+
+---
+
+**April 2019 - January 2020**
+
+**Title**: Developer 
+**Employer**: Askida  
+**For**: Telecommunication Company & their customer(s) compani(es)
+
+**Project**: Maintenance and evolution of a set of python applications, for high level network management, with functionalities such as provisioning network devices (switches, servers, etc) through different interfaces (api, cli), generating configurations on network devices, etc. The apps were deployed in a Openshift cluster. My role on the project(s) mostly consisted in improving the development practice, implementing a tes practice (tests were practically non-existant before), and streamlining the CI/CD process.
 
 **Tags**: `Python` , `Flask` , `OpenShift`, `Network Infrastructure`
 
@@ -168,10 +180,10 @@ Personal Projects
 **Median XL**
 
 **Started**: June 2013  
-**Finished**: Still evolving  
+**Finished**: in progress  
 **Title**: Lead Developer  
 
-**Project**: Reverse engineering and expansion of [Diablo II](http://us.blizzard.com/en-us/games/d2/)'s game engine. The game's engine was almost entirely rewritten by reversing and translating the binaries' assembly code back to source C code. The project consists of about 100,000 lines of source code that was translated from raw assembly code. Bugs from the original game's engine have been fixed, and it was ultimately expanded in a modding platform for my team.
+**Project**: Reverse engineering and expansion of [Diablo II](http://us.blizzard.com/en-us/games/d2/)'s game engine. The game's engine was almost entirely rewritten by reversing and translating the binaries' assembly code back to source C code. The project consists of about 100K lines of source code that was translated from raw assembly code. Bugs from the original game's engine have been fixed, and it was ultimately expanded in a modding platform for my team.
 
 **Tags**: `C` , `C++` , `MSVC` , `x86 Assembly` , `Source Code Injection` , `Reverse Engineering` , `OllyDBG`
 
@@ -180,7 +192,7 @@ Personal Projects
 **PVPGN**
 
 **Started**: May 2017  
-**Finished**: Still evolving  
+**Finished**: in progress 
 **Title**: Developer  
 
 **Project**: Development on a private fork of [PVPGN](https://github.com/pvpgn/pvpgn-server), adding and/or expanding functionalities for the server that hosts the Median XL project. These patches weren't contributed to the main public project because they were very specific changes to integrate with Median XL and would be of no interest for general usage.
