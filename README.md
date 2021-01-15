@@ -38,10 +38,10 @@ Some interests of mine that don't necessarily reflect in this resume are:
 Professional Projects
 ---
 
-**January 2020 - September 2020**
+**January 2020 - December 2020**
 
 **Title**: Tech Lead  
-**Employer**: Askida  
+**Employer**: Alithya  
 **For**: Telecommunication Company & their customer(s) compani(es)
 
 **Project**: Design, architecturing and development of an application to manage the lifecycle of ssl certificates (create, renew, revoke, etc) on network devices of various types, such as BigIP F5, Cisco CUCM, and many others, using different interfaces (api, cli, ssh). Micro service oriented architecture using Python and Flask, deployed in a Openshift cluster.
