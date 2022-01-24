@@ -28,7 +28,7 @@ Some interests of mine that don't necessarily reflect in this resume are:
 `C` , `C++` , `Java` , `Python` , `JavaScript` , `TypeScript` , `PHP` , `x86 Assembly` , `Groovy` , `VBA`
 
 **Programming Languages I'd like to work with**  
-`Rust` , `C#` , `Ruby` , `Kotlin` , `GO`
+`Rust` , `C#` , `Kotlin` , `GO`
 
 **CI/CD Software I've worked with**  
 `Gitlab CI` , `Jetbrains TeamCity` , `Jenkins`
@@ -36,6 +36,18 @@ Some interests of mine that don't necessarily reflect in this resume are:
 ---
 
 Professional Projects
+---
+
+**January 2021 - January 2022**
+
+**Title**: Developer  
+**Employer**: Alithya  
+**For**: Telecommunication Company & their customer(s) compani(es)
+
+**Project**: Design and development of a set of micro services, to facilitate changes on various network devices (cisco, fortinet, bigip, etc.), using different interfaces (api, cli, ssh). Features included scheduling of changes on devices, tracking of the state of changes, collection of relevant logs from the devices. The application is used to apply changes in several customer network environments.
+
+**Tags**: `Python` , `Flask` , `FastAPI`, `OpenShift`, `Micro Service`, `Network`
+
 ---
 
 **January 2020 - December 2020**
